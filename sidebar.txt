@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hya:home|Door43 (hya)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hya|d43-hya repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hya/archive/master.zip|d43-hya.zip]]
+
+**Recent Changes**
+{{changes>ns = hya}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hya|Ethnologue data]]
+
